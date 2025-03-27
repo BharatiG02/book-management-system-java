@@ -8,7 +8,9 @@
 - **Delete a Book**: Remove a book record from the catalog.
 - **Exit System**: Close the program.
 
-- 1. **Clone the repository**:
+- ## Setup and Run Instructions:
+
+  1. Clone the repository:
    Open your terminal and clone the repository using:
    ```bash
    git clone https://github.com/BharatiG02/book-management-system-java.git
